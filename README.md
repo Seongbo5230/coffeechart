@@ -42,3 +42,8 @@ http://flask.palletsprojects.com/en/1.1.x/
 http://flask.palletsprojects.com/en/1.1.x/quickstart/
 http://flask.palletsprojects.com/en/1.1.x/deploying/#deployment
 http://flask.palletsprojects.com/en/1.1.x/cli/#cli
+
+-------------------------------------------
+
+### pick up from
+http://flask.palletsprojects.com/en/1.1.x/quickstart/#accessing-request-data
